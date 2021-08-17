@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Toufiq Hasan Kiron</h1>
-
+### Hi there, I'm Toufiq Hasan Kiron - aka [Kiron] 😎
+<h1 align="left">Hi 👋, I'm Toufiq Hasan Kiron</h1>
 
 
 ### Connect with me:
