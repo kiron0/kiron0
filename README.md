@@ -1,19 +1,10 @@
-### Hi I'm Toufiq Hasan Kiron - aka <a href="https://toufiqhasankiron.me" target="_blank">Kiron</a>  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Toufiq Hasan Kiron - aka <a href="https://toufiqhasankiron.me" target="_blank">Kiron</a>  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
 ## I'm a Junior Web Developer!!
 - 🌱 I’m currently learning everything 😇
 - 🥅 2022 Goals: Contribute  to Open Source projects 📝
 - ⚡ Fun fact: I love to travel ✈🚢
-
-### Connect with me:
-
-<a href="https://toufiqhasankiron.me" target="_blank"><img align="left" alt="toufiqhasankiron.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://facebook.com/toufiqhasankiron" target="_blank"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://instagram.com/toufiq_hasan_kiron" target="_blank"><img align="left" alt="toufiqhasankiron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.youtube.com/channel/UCS_vQ5IzXERnAfxVQ-998Pw" target="_blank"><img align="left" alt="toufiqhasankiron | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href="https://twitter.com/ToufiqHasan0" target="_blank"><img align="left" alt="toufiqhasankiron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://linkedin.com/in/toufiq-hasan-kiron" target="_blank"><img align="left" alt="toufiqhasankiron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
 :mailbox: Reach me out!
