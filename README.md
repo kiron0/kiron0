@@ -45,5 +45,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
 
 <p align="center"> 
- <a href="https://github.com/kiron0"><img src="img/github.svg" alt="GitHub"></a>
+
   <img src="https://komarev.com/ghpvc/?username=kiron0&label=Profile%20views&color=0e75b6&style=flat" alt="kiron0" /> </p>
