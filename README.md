@@ -35,6 +35,12 @@
 
 <br /><br /><br />
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
 
 ![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
 
