@@ -44,4 +44,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kiron0&label=Profile%20views&color=0e75b6&style=flat" alt="kiron0" /> </p>
+<p align="center"> 
+  <a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=kiron0&label=Profile%20views&color=0e75b6&style=flat" alt="kiron0" /> </p>
