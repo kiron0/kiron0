@@ -3,7 +3,7 @@
 
 ### I'm a Junior Web Developer!!
 
-<br/>
+
 ### Connect with me:
 
 <a href="https://toufiqhasankiron.me" target="_blank"><img align="left" alt="toufiqhasankiron.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
