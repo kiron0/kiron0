@@ -1,6 +1,6 @@
 ## Hi I'm Toufiq Hasan Kiron - aka <a href="https://toufiqhasankiron.me" target="_blank">Kiron</a>  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Toufiq Hasan Kiron a Junior Web Developer. I Spend most of time coding outstanding projects.
+I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq Hasan Kiron</a> a Junior Web Developer. I Spend most of time coding outstanding projects.
 
 :mailbox: Reach me out!
 
@@ -15,7 +15,7 @@ I'm Toufiq Hasan Kiron a Junior Web Developer. I Spend most of time coding outst
 - ⚡ Fun fact: I love to travel ✈🚢
 
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
