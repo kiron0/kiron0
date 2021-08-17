@@ -2,10 +2,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://facebook.com/toufiqhasankiron" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+ <a href="https://facebook.com/toufiqhasankiron" target="_blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
    <a href="https://instagram.com/toufiq_hasan_kiron" target="_blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://twitter.com/ToufiqHasan0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/toufiq-hasan-kiron" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/ToufiqHasan0" target="_blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/in/toufiq-hasan-kiron" target="_blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 </p>
 
