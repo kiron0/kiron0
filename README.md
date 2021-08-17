@@ -1,6 +1,6 @@
 ### Hi there, I'm Toufiq Hasan Kiron - aka <a href="https://toufiqhasankiron.me" target="_blank">Kiron</a> 😎
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiron0&label=Profile%20views&color=0e75b6&style=flat" alt="Kamrulofficial" /> </p>
+
 
 ## I'm a Junior Web Developer!!
 
@@ -42,3 +42,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&layout=compact&theme=nightowl" alt="kiron0" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kiron0&label=Profile%20views&color=0e75b6&style=flat" alt="kiron0" /> </p>
