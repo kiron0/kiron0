@@ -44,7 +44,7 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
 
 <p align="center">
     <a href="https://github.com/kiron0/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&theme=nightowl&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
