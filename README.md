@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=buefy&show_icons=true)
+![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=chartreuse-dark&show_icons=true)
 
