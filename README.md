@@ -5,7 +5,7 @@
 ### Connect with me:
 
 <a href="https://toufiqhasankiron.me" target="_blank"><img align="left" alt="toufiqhasankiron.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://facebook.com/toufiqhasankiron" target="_blank">[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://facebook.com/toufiqhasankiron" target="_blank"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://instagram.com/toufiq_hasan_kiron" target="_blank"><img align="left" alt="toufiqhasankiron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.youtube.com/channel/UCS_vQ5IzXERnAfxVQ-998Pw" target="_blank"><img align="left" alt="toufiqhasankiron | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href="https://twitter.com/ToufiqHasan0" target="_blank"><img align="left" alt="toufiqhasankiron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
