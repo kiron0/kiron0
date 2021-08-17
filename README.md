@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 ![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
 
-![Kiron's Repo Card](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
