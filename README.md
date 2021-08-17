@@ -3,7 +3,9 @@
 
 
 ## I'm a Junior Web Developer!!
-
+- 🌱 I’m currently learning everything 😇
+- 🥅 2022 Goals: Contribute  to Open Source projects 📝
+- ⚡ Fun fact: I love to travel ✈🚢
 
 ### Connect with me:
 
