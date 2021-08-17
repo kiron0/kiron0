@@ -1,4 +1,4 @@
-### Hi there, I'm Toufiq Hasan Kiron - aka <a href="https://toufiqhasankiron.me" target="_blank">Kiron</a> 😎
+### Hi there, I'm Toufiq Hasan Kiron - aka <a href="https://toufiqhasankiron.me" target="_blank">[Kiron]</a> 😎
 <h1 align="left">Hi 👋, I'm Toufiq Hasan Kiron</h1>
 
 
