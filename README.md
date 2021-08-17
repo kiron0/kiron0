@@ -3,15 +3,14 @@
 ### Connect with me:
 
 [<a href="https://toufiqhasankiron.me" target="_blank"><img align="left" alt="toufiqhasankiron.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>]
+<a href="https://facebook.com/toufiqhasankiron" target="_blank">[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>]
 [<img align="left" alt="toufiqhasankiron | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 [<img align="left" alt="toufiqhasankiron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 [<img align="left" alt="toufiqhasankiron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 [<img align="left" alt="toufiqhasankiron | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-<br />
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
    <a href="https://instagram.com/toufiq_hasan_kiron" target="_blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
