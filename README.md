@@ -1,9 +1,10 @@
 ### Hi there, I'm Toufiq Hasan Kiron - aka <a href="https://toufiqhasankiron.me" target="_blank">Kiron</a> 😎
 
+<br/>
 
 ## I'm a Junior Web Developer!!
 
-
+<br/>
 ### Connect with me:
 
 <a href="https://toufiqhasankiron.me" target="_blank"><img align="left" alt="toufiqhasankiron.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
@@ -13,7 +14,7 @@
 <a href="https://twitter.com/ToufiqHasan0" target="_blank"><img align="left" alt="toufiqhasankiron | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://linkedin.com/in/toufiq-hasan-kiron" target="_blank"><img align="left" alt="toufiqhasankiron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
