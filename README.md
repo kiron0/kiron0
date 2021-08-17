@@ -43,7 +43,11 @@ I'm Toufiq Hasan Kiron a Junior Web Developer. I Spend most of time coding outst
   More stuff about me
 </summary>
 
-<br >
+<p align="center">
+    <a href="https://github.com/kiron0/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
 
