@@ -53,7 +53,9 @@ I'm Toufiq Hasan Kiron a Junior Web Developer. I Spend most of time coding outst
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kiron0.kiron0)
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kiron0">
+</a>
+<a href="https://github.com/kiron0?tab=followers"><img src="https://img.shields.io/github/followers/kiron0?label=Followers&style=social" alt="GitHub Badge"></a>
 
