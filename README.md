@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&layout=compact)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiron0&repo=github-readme-stats)
+
