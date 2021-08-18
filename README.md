@@ -47,12 +47,11 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&theme=nightowl&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<p align="center">
+
 ![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
-</p>
-    <p align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
-</p>
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kiron0">
