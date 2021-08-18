@@ -10,6 +10,7 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
 
 - 🌱 I’m currently learning everything 😇
 - :computer: Most used line of code `git commit -m "Initial Commit"`
+-  📫 How to reach me: toufiqhasankiron@yahoo.com.
 - 🥅 2022 Goals: Contribute  to Open Source projects 📝
 - ⚡ Fun fact: I love to travel ✈🚢
 
@@ -45,12 +46,12 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
     <a href="https://github.com/kiron0/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&theme=nightowl&stroke=0000&background=060A0CD0"/>
     </a>
-
+</p>
 
 ![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
- </p>
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kiron0">
