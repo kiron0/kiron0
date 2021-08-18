@@ -50,11 +50,11 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
 ![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
-
+ </p>
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kiron0">
 </a>
-    </p>
+   
 <a href="https://github.com/kiron0?tab=followers"><img src="https://img.shields.io/github/followers/kiron0?label=Followers&style=social" alt="GitHub Badge"></a>
 
