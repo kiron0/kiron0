@@ -45,7 +45,7 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
     <a href="https://github.com/kiron0/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&theme=nightowl&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+
 
 ![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
 
@@ -55,5 +55,6 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kiron0">
 </a>
+    </p>
 <a href="https://github.com/kiron0?tab=followers"><img src="https://img.shields.io/github/followers/kiron0?label=Followers&style=social" alt="GitHub Badge"></a>
 
