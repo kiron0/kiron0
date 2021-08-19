@@ -40,4 +40,3 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
 
 ![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=nightowl&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0&theme=nightowl&layout=compact)
