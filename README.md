@@ -2,16 +2,18 @@
 
 I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq Hasan Kiron</a> a Junior Web Developer. I Spend most of time coding outstanding projects.
 
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@ToufiqHasan0-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ToufiqHasan0)](https://twitter.com/ToufiqHasan0) [![Mail Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCS_vQ5IzXERnAfxVQ-998Pw) [![Linkedin Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Toufiq-Hasan-Kiron/) [![Mail Badge](https://img.shields.io/badge/-@toufiq_hasan_kiron-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/toufiq_hasan_kiron) [![Mail Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:toufiqhasankiron@yahoo.com)
-
 ### 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning everything 😇
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🥅 2022 Goals: Contribute  to Open Source projects 📝
 - ⚡ Fun fact: I love to travel ✈🚢
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@ToufiqHasan0-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ToufiqHasan0)](https://twitter.com/ToufiqHasan0) [![Mail Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCS_vQ5IzXERnAfxVQ-998Pw) [![Linkedin Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Toufiq-Hasan-Kiron/) [![Mail Badge](https://img.shields.io/badge/-@toufiq_hasan_kiron-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/toufiq_hasan_kiron) [![Mail Badge](https://img.shields.io/badge/-Toufiq_Hasan_Kiron-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:toufiqhasankiron@yahoo.com)
+
+
 
 
 ### 🚀 Languages and Tools:
