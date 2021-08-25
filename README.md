@@ -38,5 +38,5 @@ I'm <a href="https://www.facebook.com/toufiqhasankiron" target="_blank">Toufiq H
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> </a>
 </p>
 
-![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=vue&show_icons=true)
+![Kiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiron0&theme=graywhite&show_icons=true)
 
