@@ -16,7 +16,7 @@ const kiron = {
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            css: ["bootstrap", "tailwind"]
         },
         backEnd: {
             js: ["firebase", "node", "mongodb"]
