@@ -4,6 +4,10 @@
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiron0&label=Kiron's%20Profile%20Views&style=flat"/> </p>
+![age](https://img.shields.io/badge/age-19-blueviolet)
+![focus](https://img.shields.io/badge/focus-FullStack-critical)
+![living](https://img.shields.io/badge/living-Bogura-ff69b4)
+![projects](https://img.shields.io/badge/projects-13-important)
 
 ## 🏋 About Me
 
