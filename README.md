@@ -41,10 +41,10 @@ const kiron = {
   <div>
 </div>
     
-    <div align="center">
+<div align="center">
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
         
-        </div>
+</div>
   
   ![](https://i.imgur.com/IuzIC2j.png)
