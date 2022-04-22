@@ -5,10 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiron0&label=Kiron's%20Profile%20Views&style=flat"/> </p>
 
-![age](https://img.shields.io/badge/age-19-blueviolet)
-![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living](https://img.shields.io/badge/living-Bogura-ff69b4)
-![projects](https://img.shields.io/badge/projects-13-important)
+![](https://visitor-badge.glitch.me/badge?page_id=kiron0)
+![Age](https://img.shields.io/badge/age-19-blueviolet)
+![Focus](https://img.shields.io/badge/focus-FullStack-critical)
+![Living](https://img.shields.io/badge/living-Bogura-ff69b4)
+![Projects](https://img.shields.io/badge/projects-13-important)
 
 ## 🏋 About Me
 
