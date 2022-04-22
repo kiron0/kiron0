@@ -36,8 +36,6 @@ const kiron = {
     <img alt="Kiron's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=kiron0&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
   </div>
 
-  <hr/>
-
   <div>
     <img alt="Kiron's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=kiron0&custom_title=Toufiq%20Hasan%20Kiron's%20Contribution%20Graph&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
   <div>
