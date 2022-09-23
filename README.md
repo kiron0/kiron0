@@ -51,7 +51,7 @@ const kiron = {
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kiron0&theme=radical" width="45%" >
 
 <p align = "center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiron0">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiron0&count_private=true&show_icons=true&theme=radical">
 </p>
 
 <br />
