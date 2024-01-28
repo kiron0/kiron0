@@ -54,6 +54,9 @@ const kiron = {
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiron0&count_private=true&show_icons=true&theme=radical">
 </p>
 
+## 🚀 DevCard
+<a href="https://app.daily.dev/toufiqhasankiron"><img src="https://api.daily.dev/devcards/37a8c0e2186f4a6a94fae10dd76771c0.png?r=2ki" width="400" alt="Toufiq Hasan Kiron's Dev Card"/></a>
+
 <br />
 
 <div align="center">
